@@ -217,5 +217,5 @@ http://193.239.187.97/SBS6/index.m3u8
 #EXTINF:-1 tvg-id="L1TV",L1TV
 http://193.239.187.97/L1TV/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSport",Fox Sport
-http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-id="TSN1",TSN1
+http://imediatv666.store:7777/live/wrFzaSR3Y/356n4pcDgJ/111789.ts
